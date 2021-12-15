@@ -1,4 +1,5 @@
-# Covid_19_Tracker
+
+<h1 align="center">Covid_19_Tracker</h1>  
 
 https://corona.lmao.ninja/v2/countries
 
